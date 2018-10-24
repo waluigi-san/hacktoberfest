@@ -454,6 +454,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web and Mobile Engineer
 - GitHub: [Caio Perdona](https://github.com/perdona)
 
+#### Name: [Alisson Vargas](https://github.com/alisson-mich)
+- Place: Torres, RS, Brazil
+- Bio: A guy who loves IT :D
+- GitHub: [Alisson Vargas](https://github.com/alisson-mich)
+
 #### Name: [Cameron Smith](https://github.com/cameronzsmith)
 - Place: Wichita, KS, USA
 - Bio: Student
